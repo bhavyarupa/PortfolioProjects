@@ -1,6 +1,6 @@
 /*
 
-Indian Census Analysys
+Indian Census Analysis
 
 */
 
